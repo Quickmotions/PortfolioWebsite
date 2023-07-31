@@ -46,7 +46,7 @@ hr {
 }
 
 .title {
-  background-image: url("/images/mountain.jpg");
+  background-image: url("../images/mountain.jpg");
   background-position: 100%  calc(100% + 260px);
 }
 
