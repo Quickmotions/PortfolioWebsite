@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Welcome to my portfolio website repository! This website showcases a collection of my projects, skills, and experiences. It is built using HTML and CSS and is designed to provide an overview of my work as a student of Cybersecurity and Forensics and highlight my capabilities in programming. You can reach the website here[https://quickmotions.github.io/portfolio/]
+Welcome to my portfolio website repository! This website showcases a collection of my projects, skills, and experiences. It is built using HTML and CSS and is designed to provide an overview of my work as a student of Cybersecurity and Forensics and highlight my capabilities in programming. You can reach the [website here](https://quickmotions.github.io/portfolio/)
 
 ## Table of Contents
 
